@@ -10,6 +10,8 @@ EIST Summary
 
 # 01 Introduction
 
+---
+
 ```mermaid
 graph RL
     N1(Problem Solving)
@@ -223,13 +225,37 @@ graph LR
 	D3==>D1
 ```
 
+## Tailoring
 
+>   There is no “one size fits all” software lifecycle model that works for all possible software engineering projects
+
+| Tailoring | adjusting a lifecycle model to fit a project    |
+| :-------- | :---------------------------------------------- |
+| naming    | adjusting the naming of activities              |
+| cutting   | removing activities not needed in the project   |
+| ordering  | defining the order the activities take place in |
+
+## Controlling software development with a process
+
+|            organizational maturity (Humphrey '89)            |                    agility (Schwaber '01)                    |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Repeatable process<br />Capability Maturity Model Integration (CMMI) | Large parts of the _sd_ is empirical in nature<br />they cannot be modelled with a defined process |
+
+
+
+## Defined vs Empirical process
+
+|                     Defined process                     |              Empirical process              |
+| :-----------------------------------------------------: | :-----------------------------------------: |
+| Planed<br />Follows strict rules<br />Avoids deviations | Not entirely planned<br />inspect and adapt |
 
 <div style="page-break-after: always; break-after: page;"></div>
 
 # 03 Requirements Analysis
 
 ---
+
+
 
 <div style="page-break-after: always; break-after: page;"></div>
 
